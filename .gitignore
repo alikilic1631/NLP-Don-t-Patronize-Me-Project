@@ -1,0 +1,9 @@
+
+*.safetensors
+checkpoint-*/
+Data/
+Datasets/
+model.pt
+hotdogdetect_checkpoint.pth
+ldm_hotdogs_simple_unet_cls.pth
+.DS_Store
